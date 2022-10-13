@@ -5,4 +5,3 @@
  - 📫 ***Reach me at:*** hamza.farhatali@gmail.com
  - ⚡ ***Fun fact:*** I have been to 14 countries, backpacked across west Europe 
  
- <a><button name="button" style = "color: blue" onclick="https://twitter.com/HamzaSoftEng">My Twitter</button></a>

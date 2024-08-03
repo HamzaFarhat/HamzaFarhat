@@ -3,5 +3,5 @@
  - 🌱 ***I’m currently learning:*** Data Pipelines in the world of Web Dev 
  - 👯 ***I’m looking to collaborate on:*** FinTech and other great ideas!
  - 📫 ***Reach me at:*** [mv1.ca](https://www.mv1.ca/)- Help you lead the way with Data and AI
- - ⚡ ***Fun fact:*** I have been to 14 countries, backpacked across west Europe 
+ - ⚡ ***Fun fact:*** I have travelled to 16 countries
  

@@ -1,5 +1,5 @@
 # Hey Everyone 👋
- - 🔭 ***I’m currently working on:*** Small Porjects, including AI, Muzzifi- A Social Media App with Ethics, Skool Community for Software Engineers to grow
+ - 🔭 ***I’m currently working on:*** AI Projects, Muzzifi- A Social Media App with Ethics, Skool Community for Software Engineers to grow
  - 🌱 ***I’m currently learning:*** Data Pipelines in the world of Web Dev, AI and Cybersecurity 
  - 👯 ***I’m collaborating on:*** Suno https://www.suno.chat/
  - 👯 ***Volunteering at:*** MAX Aspire https://aspire.onemax.org/

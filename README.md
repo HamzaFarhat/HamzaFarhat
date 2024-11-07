@@ -1,5 +1,5 @@
 # Hey Everyone 👋
- - 🔭 ***I’m currently working on:*** AI Projects, Muzzifi- A Social Media App with Ethics, Skool Community for Software Engineers to grow [HAMZAS.CA Personal Brand](https://hamzas.ca)
+ - 🔭 ***I’m currently working on:*** AI Projects, Clubhouse AI Chat, Discord Community for Software Engineers to grow [HAMZAS.CA Personal Brand](https://hamzas.ca)
  - 🌱 ***I’m currently learning:*** Data Pipelines in the world of Web Dev, AI and Cybersecurity 
  - 👯 ***I’m collaborating on:*** Loba
  - 👯 ***Volunteering at:*** [MAX Aspire](https://aspire.onemax.org/)

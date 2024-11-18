@@ -1,6 +1,6 @@
 # Hey Everyone 👋
  - 🔭 ***I’m currently working on:*** AI Projects, Clubhouse AI Chat, Discord Community for Software Engineers to grow [HAMZAS.CA Personal Brand](https://hamzas.ca)
- - 🌱 ***I’m currently learning:*** Data Pipelines in the world of Web Dev, AI and Cybersecurity 
+ - 🌱 ***I’m currently learning:*** Data Pipelines in the world of Web Dev, AI and Cybersecurity [247 Labs](https://247labs.com)
  - 👯 ***I’m collaborating on:*** Loba
  - 👯 ***Volunteering at:*** [MAX Aspire](https://aspire.onemax.org/)
  - 📫 ***Reach me at:*** [mv1.ca](https://www.mv1.ca/)- Help you save time with Data & AI

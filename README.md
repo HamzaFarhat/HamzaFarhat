@@ -7,6 +7,7 @@
    
 🌱 ***I’m currently learning:***
 - Islam, Health (Mental & Physical)
+- History & AI
 
 👯 ***I’m building on:** 
 - AI strategy for every Industry

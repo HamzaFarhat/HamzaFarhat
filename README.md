@@ -1,9 +1,9 @@
 # Hey Everyone 👋
 🔭 ***I’m currently working on:***
 - AI Projects, Clubhouse AI Chat, Discord Community for Software Engineers to grow [Hamzas.ca](https://hamzas.ca).
-- Also building a GTM Strategy for AI.
+- Building a GTM Strategy for AI.
 - Data Pipelines in the world of Web Dev, AI and Cybersecurity
-- Connector community
+- Connector community for engineers to grow
    
 🌱 ***I’m currently learning:***
 - Islam, Health (Mental & Physical)

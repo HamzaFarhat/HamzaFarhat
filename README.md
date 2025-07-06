@@ -11,14 +11,15 @@
 
 👯 ***I’m building on:** 
 - AI strategy for every Industry
-- mv1.ca
+- [247 Labs](https://247labs.com)
+- [mv1.ca](https://www.mv1.ca/) 
 - muzzeats.com
 - muzzifi.com
 - voice AI.
 - Building as many software products and services
 
 👯 ***Volunteering at:*** [MAX Aspire](https://aspire.onemax.org/)
-- 📫 ***Reach me at:*** [mv1.ca](https://www.mv1.ca/), [247 Labs](https://247labs.com)- Help you save time with Data & AI
+- 📫 ***Reach me at:*** LinkedIn, IG:hamzas.ca
 - ⚡ ***Fun fact:*** I have traveled to countries in Western Europe, Asia, and the Middle East. Looking forward to more adventures
 
 Some Cool Projects using AI:

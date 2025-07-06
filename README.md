@@ -9,7 +9,7 @@
 - Islam, Health (Mental & Physical)
 - History & AI
 
-👯 ***I’m building on:** 
+👯 **I’m building on:** 
 - AI strategy for every Industry
 - [247 Labs](https://247labs.com)
 - [mv1.ca](https://www.mv1.ca/) 
